@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Visualization.**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/AOlang98](https://aolang98.github.io/Austin-Olang.github.io/)]([https://github.com/AOlang98](https://aolang98.github.io/Austin-Olang.github.io/))
+- 👨‍💻 All of my projects are available at [[https://github.com/AOlang98](https://aolang98.github.io/Austin-Olang.github.io/)]
 
 - 💬 Ask me about **Data Science and Visualization**
 
