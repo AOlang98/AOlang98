@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolang98&label=Profile%20views&color=0e75b6&style=flat" alt="aolang98" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Visualization.**
+- 🌱 Currently getting insights on data and expanding my knowledge on **Data Science and Visualization.**
 
 - 👨‍💻 All of my projects are available at https://aolang98.github.io/Austin-Olang.github.io/
 
