@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at https://aolang98.github.io/Austin-Olang.github.io/
 
-- 💬 Ask me about **Data Science and Visualization**
-
 - 📫 How to reach me **austinolang1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
