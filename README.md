@@ -5,7 +5,7 @@
 
 - 🌱 Currently getting insights on data and expanding my knowledge on **Data Science and Visualization.**
 
-- 👨‍💻 All of my projects are available at https://aolang98.github.io/Austin-Olang.github.io/
+- 👨‍💻 All of my projects are available at (https://aolang98.github.io/Olang-Austin.github.io/)
 
 - 📫 How to reach me **austinolang1@gmail.com**
 
