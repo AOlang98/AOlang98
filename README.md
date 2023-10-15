@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Olang</h1>
-<h3 align="center">A Petroleum Engineer from Kenya interested in data and its insights. Proficient in SQLiteStudio, Power BI and Python for Data Science.</h3>
+<h3 align="center">A Petroleum Engineer from Kenya interested in data and its insights. Proficient in SQLiteStudio, Power BI and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolang98&label=Profile%20views&color=0e75b6&style=flat" alt="aolang98" /> </p>
 
