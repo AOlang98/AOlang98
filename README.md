@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Olang</h1>
-<h3 align="center">Data scientist with a passion for extracting valuable insights from complex datasets, bolstered by two certificates in data science and data analysis. Proficient in data manipulation, predictive modeling, and data visualization, I thrive on uncovering patterns and trends that drive informed decision-making.</h3>
+<h3 align="center">Data scientist with a passion for extracting valuable insights from complex datasets. Proficient in data manipulation, predictive modeling, and data visualization, I thrive on uncovering patterns and trends that drive informed decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolang98&label=Profile%20views&color=0e75b6&style=flat" alt="aolang98" /> </p>
 
